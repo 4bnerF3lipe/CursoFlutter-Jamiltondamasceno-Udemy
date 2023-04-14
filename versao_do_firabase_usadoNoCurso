@@ -1,0 +1,4 @@
+firebase_core: ^0.4.0+5 # Recursos Básicos
+cloud_firestore: ^0.12.5 # Banco de Dados
+firebase_storage: ^3.0.1 # Armazenamento de Arquivos
+firebase_auth: ^0.11.1+6 # Autenticação de Usuários
